@@ -27,6 +27,35 @@ background: rgba(0, 0, 0, 0.68);
     margin-top: 20rem;
 }
 
+.Nosotros{
+    background: #956B7E;
+    color: #fff;
+}
+
+.perfil{
+    color: black;
+}
+
+.Servicios{
+    background: #fff;
+    color: black;
+}
+
+.Servicios .fas{
+color: #B04CC3;
+font-size: 3.5rem;
+}
+
+.p-n{
+    font-size: 1.5rem;
+}
+
+
+footer{
+    background-color: #222;
+    color: #fff;
+}
+
 @media (min-width:768px){
     #menuprincipal{
         clear: inherit;
